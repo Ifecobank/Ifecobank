@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Ifeanyichukwu Ifekwu 👋
 
-<!--
-**Ifecobank/Ifecobank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm an aspiring SOC Analyst with a strong interest in networking and cybersecurity. I am currently building a solid foundation by studying Cisco networking, Packet Tracer labs, and security fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to develop the technical skills needed to detect, investigate, and respond to cybersecurity threats.
+
+## Currently Learning
+
+- Cisco CCNA
+- Networking Fundamentals
+- Cisco Packet Tracer
+- IPv4 Addressing
+- Ethernet LAN Switching
+- Device Security
+- Linux
+- Cybersecurity Fundamentals
+
+## Technical Skills
+
+- Cisco Packet Tracer
+- Network Configuration
+- IPv4 Addressing
+- Router & Switch Configuration
+- Basic Device Security
+- Network Troubleshooting
+
+## Current Projects
+
+- Cybersecurity Labs
+- Packet Tracer Labs
+- CCNA Practice
+- Building a SOC Analyst Portfolio
+
+## Career Goal
+
+To become a Security Operations Center (SOC) Analyst and continuously develop expertise in network security, threat detection, and incident response.
+
+## Connect with Me
+
+- LinkedIn: https://linkedin.com/in/ifekwu-ifeanyichukwu-9b5970229
+- Email: ifekwuifeanyi@gmail.com
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
